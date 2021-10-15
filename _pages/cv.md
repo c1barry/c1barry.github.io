@@ -30,10 +30,10 @@ Research Experience
   * Professor Eric Granholm, Professor Edward Wang
 
 * Personalized Hypertension Care Using Wearables and Machine Learning (Feb. 2020 - Dec. 2020)
-  * Mobile Systems Design Lab | Jared Leitner, Professor Sujit Dey
+  * Mobile Systems Design Lab: Jared Leitner, Professor Sujit Dey
 
 * Functional Testing of Stem Cell Derived Cardiomyocytes in a Vascularized Cardiac Patch (May 2019-Jan. 2020)
-  * Mali Lab | Aditya Kumar, Professor Prashant Mali
+  * Mali Lab: Aditya Kumar, Professor Prashant Mali
 
 Work Experience
 ======
