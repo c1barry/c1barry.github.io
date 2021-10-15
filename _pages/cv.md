@@ -23,7 +23,7 @@ Education
 Research Experience
 ======
 * Remote, Smartphone-Based Screening For Mild Cognitive Impairment in Older Adults to Assess      Alzheimer's Disease Risk (July 2020 - Present)
-  * UDCompLab /| UCSD Design Lab /| UCSD Center for Mental Health Technologies
+  * UDCompLab "|" UCSD Design Lab "|" UCSD Center for Mental Health Technologies
   * Professor Eric Granholm | Professor Edward Wang
 
 * Smartphone-Based Pupillometry for Research Applications (Mar. 2020 - Aug. 2021)
