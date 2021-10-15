@@ -1,8 +1,8 @@
 ---
 title: "Tenets Towards Smartphone-based Medical Tricorders"
 collection: talks
-type: "Presentation"
-permalink: /presentations/smartphone-tricorders
+type: "Talk"
+permalink: /talks/smartphone-tricorders
 venue: "DigiBiom Workshop at MobiSys 2021"
 date: 2021-08-25
 location: "Virtual"
