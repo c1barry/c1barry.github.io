@@ -2,7 +2,7 @@
 title: "Tenets Towards Smartphone-based Medical Tricorder"
 collection: publications
 permalink: /publication/Tenets-Towards-Smartphone-based-Medical-Tricorder
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper presents a vision for smartphone based medical tricorders and draws out the challenges to realizing successful smartphone-based medical sensing solutions.'
 date: 2021-06-25
 venue: 'MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers'
 paperurl: 'https://dl.acm.org/doi/proceedings/10.1145/3469266'
