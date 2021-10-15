@@ -55,9 +55,8 @@ Presentations
   
 Awards
 ======
-  <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Powell - Focht Fellowship 2020
+* Provost Honors, UCSD 2016-2019
   
 Skills
 ======
