@@ -5,6 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<title>Ongoing Research<title>
+Ongoing Research
 
-Past Research
+## Past Research
