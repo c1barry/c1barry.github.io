@@ -49,11 +49,6 @@ Publications
 * (Submitted 09-2021) Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments"
 collection: publications
 * Tenets Towards Smartphone-based Medical Tricorders
-Presentations
-======
-  <ul>{% for post in site.presentations %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Awards
 ======
