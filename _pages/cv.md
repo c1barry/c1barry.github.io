@@ -43,10 +43,12 @@ Work Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+* (Submitted 09-2021) Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments"
+collection: publications
+* Tenets Towards Smartphone-based Medical Tricorders
 Presentations
 ======
   <ul>{% for post in site.presentations %}
