@@ -46,9 +46,10 @@ Publications
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-* (Submitted 09-2021) Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments"
-collection: publications
+* (Submitted 09-2021) Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments
+  * CHI Conference on Human Factors in Computing Systems
 * Tenets Towards Smartphone-based Medical Tricorders
+  * MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers
   
 Awards
 ======
