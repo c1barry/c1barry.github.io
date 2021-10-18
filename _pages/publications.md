@@ -18,7 +18,7 @@ author_profile: true
  -->
 
 
-# Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments"
+# Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments
 Submitted to CHI Conference on Human Factors in Computing Systems, September 2021
 
 In this paper, we introduce a novel smartphone-based pupillometer to allow for future development in clinical research surrounding at-home pupil measurements.
