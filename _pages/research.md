@@ -12,7 +12,10 @@ This project is a collaboration with the Design Lab and Dr. Eric Granholm at the
 ## Past Research
 
 # Smartphone-Based Pupillometry for Research Applications
+This project was motivated by my current ongoing research with the Design lab and the UCSD Center for Mental Health Technologies. We realized the utility of an accessible pupillometer for neuropsychiatric research into attention, neurological diseases, cognitive function, and more. We were able to successfully create a smartphone app to transform a smartphone into a pupillometer and subsequently submitted a paper titled, "Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments" to CHI (link to paper will be provided after publication).
 
 # Personalized Hypertension Care Using Wearables and Machine Learning
+As an undergraduate, I worked with other students in the UCSD Mobile Systems Design Lab under Professor Sujit Dey to develop CNN-based models to estimate individualized blood pressure from PPG signal. I reduced the training time of the existing model using a few shot learning approach. I then developed an smartphone application to use the trained model to predict blood pressure in realtime.
 
 # Functional Testing of Stem Cell Derived Cardiomyocytes in a Vascularized Cardiac Patch
+As an undergraduate research assistant in Mali Lab, I 3D printed silicon structures and programmed electric stimulation to contain and stimulate stem cell derived cardiomyocytes.
