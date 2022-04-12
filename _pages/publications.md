@@ -18,13 +18,14 @@ author_profile: true
  -->
 
 
-# Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments
-Submitted to CHI Conference on Human Factors in Computing Systems, September 2021
+## Enabling Smartphone Pupillometry using a Facial Identification Camera in At-Home Environments
+Best Paper Honorable Mention at CHI 2022 Conference on Human Factors in Computing Systems
 
-In this paper, we introduce a novel smartphone-based pupillometer to allow for future development in clinical research surrounding at-home pupil measurements.
+We introduce a novel smartphone-based pupillometer to allow for future development in clinical research surrounding at-home pupil measurements.
 
+Citation will be available after CHI 2022 Conference in May
 
-# Tenets Towards Smartphone-based Medical Tricorder
+## Tenets Towards Smartphone-based Medical Tricorder
 Published in MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers, 2021
 
 This paper presents a vision for smartphone based medical tricorders and draws out the challenges to realizing successful smartphone-based medical sensing solutions.
