@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interests
 ======
-Digital Health, Machine Learning, Ubiquitous Computing, Human Centered Design, Geriatric Health
+Digital Health, Signal Processing, Machine Learning, Ubiquitous Computing, Human Centered Design
 
 Education
 ======
