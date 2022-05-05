@@ -23,14 +23,16 @@ Best Paper Honorable Mention at CHI 2022 Conference on Human Factors in Computin
 
 We introduce a novel smartphone-based pupillometer to allow for future development in clinical research surrounding at-home pupil measurements.
 
-Citation will be available after CHI 2022 Conference in May
+Colin Barry, Jessica de Souza, Yinan Xuan, Jason Holden, Eric Granholm, and Edward Jay Wang. 2022. At-Home Pupillometry using Smartphone Facial Identification Cameras. In CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 235, 1–12. https://doi.org/10.1145/3491102.3502493
+
+Press Release: https://jacobsschool.ucsd.edu/news/release/3444
 
 ## Tenets Towards Smartphone-based Medical Tricorder
 Published in MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers, 2021
 
 This paper presents a vision for smartphone based medical tricorders and draws out the challenges to realizing successful smartphone-based medical sensing solutions.
 
-Recommended citation: Colin Barry, Tauhidur Rahman, and Edward J. Wang. 2021. "Tenets towards smartphone-based medical tricorders. In Proceedings of the 2021 Workshop on Future of Digital Biomarkers (DigiBiom 2021). Association for Computing Machinery, New York, NY, USA, 12–18. DOI:https://doi.org/10.1145/3469266.3469880 https://dl.acm.org/doi/proceedings/10.1145/3469266
+Colin Barry, Tauhidur Rahman, and Edward J. Wang. 2021. "Tenets towards smartphone-based medical tricorders. In Proceedings of the 2021 Workshop on Future of Digital Biomarkers (DigiBiom 2021). Association for Computing Machinery, New York, NY, USA, 12–18. DOI:https://doi.org/10.1145/3469266.3469880 https://dl.acm.org/doi/proceedings/10.1145/3469266
 
 
 
