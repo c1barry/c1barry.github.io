@@ -11,5 +11,7 @@ author_profile: true
 
 Email: c1barry@ucsd.edu
 
-LinkedIn (Not Preferred): www.linkedin.com/in/colin-barry-53a719239
+LinkedIn: www.linkedin.com/in/colin-barry-53a719239
+
+Note: Email is strongly preferred over LinkedIn for all communication
 
