@@ -11,6 +11,8 @@ venue: 'CHI Conference on Human Factors in Computing Systems'
 ---
 In this paper, we introduce a novel smartphone-based pupillometer to allow for future development in clinical research surrounding at-home pupil measurements.
 
+<!-- https://omny.fm/shows/ched-mid-morning/new-eye-scanning-app-can-screen-people-for-alzheim -->
+
 <!-- #[Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
 <!-- #Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
