@@ -27,7 +27,7 @@ Colin Barry, Jessica de Souza, Yinan Xuan, Jason Holden, Eric Granholm, and Edwa
 
 Press Release: https://jacobsschool.ucsd.edu/news/release/3444
 
-## Tenets Towards Smartphone-based Medical Tricorder
+## Tenets Towards Smartphone-based Medical Tricorders
 Published in MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers, 2021
 
 This paper presents a vision for smartphone based medical tricorders and draws out the challenges to realizing successful smartphone-based medical sensing solutions.
