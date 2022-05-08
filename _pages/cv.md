@@ -66,7 +66,7 @@ Skills
 Service and leadership
 ======
 * Director, Digital Health Research Summer Outreach Program (April 2022 - Present)
-* UDComp Lab Sring Break Research Experience Opportunity (March 2020)
+* UDComp Lab Spring Break Research Experience Opportunity (March 2020)
 * Life Rolls On 2018, Adaptive Surf Clinic (Sept. 2018)
 * UCSD Rock Climbing Team Beginner’s Coach (2018-2019)
 
