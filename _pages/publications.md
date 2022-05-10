@@ -26,6 +26,8 @@ We introduce a novel smartphone-based pupillometer to allow for future developme
 Colin Barry, Jessica de Souza, Yinan Xuan, Jason Holden, Eric Granholm, and Edward Jay Wang. 2022. At-Home Pupillometry using Smartphone Facial Identification Cameras. In CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 235, 1–12. https://doi.org/10.1145/3491102.3502493
 
 Press Release: https://jacobsschool.ucsd.edu/news/release/3444
+Radio Interview: https://omny.fm/shows/ched-mid-morning/new-eye-scanning-app-can-screen-people-for-alzheim
+Press Release: https://globalnews.ca/news/8801277/new-eye-scanning-app-alzheimers-adhd/
 
 ## Tenets Towards Smartphone-based Medical Tricorders
 Published in MobiSys 2021: DigiBiom, Workshop on the Future of Digital Biomarkers, 2021
